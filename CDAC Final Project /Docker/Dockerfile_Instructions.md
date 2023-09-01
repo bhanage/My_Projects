@@ -1,4 +1,4 @@
-
+```sh
 DockerFile 
 
 1. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.   
